@@ -23,4 +23,11 @@ Got to know many details about various kinds of hospitable/inhospitable worlds i
 We'll remove the limitations of this VR game to not just to android but also to web, ps5, Xbox. 
 We also keep in mind to specially develop this simulation for Oculus Quest 2 incase we get it post hackathon. :p
 
-
+Photos
+![](https://github.com/midopooler/PlanetSimulator/blob/main/Image/1%20(3).png)
+![](https://github.com/midopooler/PlanetSimulator/blob/main/Image/2%20(2).png)
+![](https://github.com/midopooler/PlanetSimulator/blob/main/Image/3.png)
+![](https://github.com/midopooler/PlanetSimulator/blob/main/Image/gallery%20(1).jpg)
+![](https://github.com/midopooler/PlanetSimulator/blob/main/Image/gallery%20(2).jpg)
+![](https://github.com/midopooler/PlanetSimulator/blob/main/Image/gallery%20(3).jpg)
+![](https://github.com/midopooler/PlanetSimulator/blob/main/Image/gallery.jpg)
